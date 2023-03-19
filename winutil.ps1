@@ -835,9 +835,11 @@ Function Invoke-WPFFormVariables {
 
 
     Write-Host ""
-    Write-Host " ░█▀▀▀ ░█──░█ ░█▄─░█ "
-    Write-Host " ░█▀▀▀ ─░█░█─ ░█░█░█ "
-    Write-Host " ░█▄▄▄ ──▀▄▀─ ░█──▀█"
+    Write-Host "¶¶¶¶¶````¶¶``¶¶````¶¶``¶¶"     
+    Write-Host "¶¶```````¶¶``¶¶````¶¶¶`¶¶"
+    Write-Host "¶¶¶¶`````¶¶``¶¶````¶¶`¶¶¶"
+    Write-Host "¶¶````````¶¶¶¶`````¶¶``¶¶"
+    Write-Host "¶¶¶¶¶``````¶¶``````¶¶``¶¶"
     Write-Host ""
     Write-Host "====Evn08====="
     Write-Host "=====Windows Toolbox====="
